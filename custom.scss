@@ -1,0 +1,70 @@
+/*-- scss:defaults --*/
+// Wheat-and-barley palette
+// cream #FAF6EC | straw #F1E7CC | soil #2B2A26 | leaf green #2F5D34
+// ochre #8A5A00 (readable accent) | wheat gold #D9A441 (decorative only)
+
+$body-bg: #FAF6EC;
+$body-color: #2B2A26;
+$link-color: #2F5D34;
+$link-hover-color: #8A5A00;
+
+$navbar-bg: #2F5D34;
+$navbar-fg: #FAF6EC;
+$navbar-hl: #FAF6EC;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  color: #2F5D34;
+}
+
+// Wheat gold is too pale to read as text, so it is used for rules only.
+h2 {
+  border-bottom: 3px solid #D9A441;
+  padding-bottom: 0.25em;
+  margin-top: 2.5rem;
+}
+
+.profile {
+  background: #F1E7CC;
+  padding: 1.5rem;
+  border-radius: 6px;
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;      // photo (if added) stacks above the text on narrow screens
+  gap: 1.5rem;
+}
+
+.profile-text {
+  flex: 1 1 20rem;
+}
+
+.profile-photo {
+  flex: 0 0 auto;
+  max-width: 12rem;
+}
+
+.profile-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.profile-role {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.profile-links a i.bi,
+.profile-links a i.ai {
+  margin-right: 0.35em;
+}
+
+.profile-links ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin-bottom: 0;
+}

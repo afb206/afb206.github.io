@@ -1,0 +1,15 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# Quarto working files and the old default output folder
+.quarto/
+_site/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew F. Bowerman",
+    "section": "",
+    "text": "Biometrician (R and Python) · Research School of Finance, Actuarial Studies and Statistics · Australian National University\n\nAndrew Bowerman is a biometrician (R and Python) at the Australian National University, in the Research School of Finance, Actuarial Studies and Statistics. He also works with Analytics for the Australian Grains Industry (AAGI). Previously he was a postdoctoral researcher in plant biology at ANU. His background is in plant molecular biology and quantitative genetics, with applied biostatistics including mixed models, ASReml-R and field trial analysis.\n\n\nEmail\nANU Research Portal\nORCID\nGoogle Scholar\nGitHub\nLinkedIn\nBluesky"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Andrew F. Bowerman",
+    "section": "Research",
+    "text": "Research\nAndrew works between plant biology and statistics. He analyses multi-environment field trials for the Australian grains industry, using linear mixed models in R (including ASReml-R), and works with Analytics for the Australian Grains Industry (AAGI). His background is in plant molecular biology and quantitative genetics.\n\nSelected papers\n\nModulation of SAL retrograde signalling promotes yield and water productivity responses in dynamic field environments Bowerman AF, Moore M, Yadav A, Zhang J, Mortimer MD, et al. New Phytologist 249(3): 1219–1233 (2026). Wheat lines with specific copies of the SAL gene deleted were tested in 15 field trials across Australian environments. Deleting TaSAL2 copies improved yield by roughly 4–8% and water productivity, while deleting TaSAL1 copies reduced yield.\nSuppression of glucan, water dikinase in the endosperm alters wheat grain properties, germination and coleoptile growth Bowerman AF, Newberry M, Dielen A-S, Whan A, Larroque O, et al. Plant Biotechnology Journal 14(1): 398–408 (2016). Wheat lines with less glucan, water dikinase (the main enzyme that adds phosphate to starch) in the grain had longer coleoptiles, independent of any increase in grain size. Starch breakdown during germination did not change.\nAlternative splicing, activation of cryptic exons and amino acid substitutions in carotenoid biosynthetic genes are associated with lutein accumulation in wheat endosperm Howitt CA, Cavanagh CR, Bowerman AF, Cazzonelli C, Rampling L, et al. Functional & Integrative Genomics 9(3): 363–376 (2009). Lutein in wheat endosperm affects flour colour. Variants in two genes, ε-cyclase and phytoene synthase, were identified as possible causes of differences in lutein content, with alternative splicing of phytoene synthase reducing the amount of active enzyme.\n\nA full list of publications is on ORCID and Google Scholar."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Andrew F. Bowerman",
+    "section": "Skills",
+    "text": "Skills\n\nComputing: R, R Markdown, LaTeX\nStatistical methods: linear mixed models (ASReml-R), factor analytic multi-environment trial analysis (FA-MET), QTL mapping (including WGAIM), GWAS, nonlinear least squares, machine learning (random forests, PLS)\nDesign and analysis: field trial and experimental design\nTraining: VSNi courses in mixed model analysis with ASReml-R (ASReml-R, ASRtriala, ASRgenomics)\nSpoken languages: Portuguese (learning)"
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "Andrew F. Bowerman",
+    "section": "Talks and posters",
+    "text": "Talks and posters\n\n2023: The Plant Cell Webinar: “Crop breeding for climate resilience” (link)\n2018: ARC Centre of Excellence in Plant Energy Biology Annual Forum, Perth\n2017: Session Chair, RSB HDR Conference\n2013: 2nd Conference on Cereal Biotechnology and Breeding, Budapest, Hungary\n2013: COMBIO, Perth\n2012: International Plant Molecular Biology Conference, Jeju, Korea"
+  }
+]

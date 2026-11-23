@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew Bowerman"
+  search: false
+  navbar:
+    background: primary
+    # Section links are added here as each section is built.
+    left:
+      - text: "Research"
+        href: "#research"
+      - text: "Skills"
+        href: "#skills"
+      - text: "Talks and posters"
+        href: "#talks"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    lang: en-AU
+    toc: false
+    smooth-scroll: true

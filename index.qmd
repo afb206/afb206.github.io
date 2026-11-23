@@ -1,0 +1,76 @@
+---
+title: "Andrew F. Bowerman"
+pagetitle: "Andrew Bowerman"
+---
+
+::: {#about .profile}
+
+<!-- PHOTO (optional, add later):
+     put a square-ish image in this folder, e.g. andrew.jpg, then remove the comment markers
+     around the block below. The alt text should describe the image.
+
+::: {.profile-photo}
+![Portrait of Andrew Bowerman](andrew.jpg)
+:::
+-->
+
+::: {.profile-text}
+
+::: {.profile-role}
+Biometrician (R and Python) · Research School of Finance, Actuarial Studies and Statistics · Australian National University
+:::
+
+Andrew Bowerman is a biometrician (R and Python) at the Australian National University, in the Research School of Finance, Actuarial Studies and Statistics. He also works with Analytics for the Australian Grains Industry (AAGI). Previously he was a postdoctoral researcher in plant biology at ANU. His background is in plant molecular biology and quantitative genetics, with applied biostatistics including mixed models, ASReml-R and field trial analysis.
+
+::: {.profile-links}
+
+- [<i class="bi bi-envelope" aria-hidden="true"></i>Email](mailto:andrew.bowerman@anu.edu.au)
+- [<i class="bi bi-person-badge" aria-hidden="true"></i>ANU Research Portal](https://researchportalplus.anu.edu.au/en/persons/andrew-bowerman)
+- [<span aria-hidden="true">{{< ai orcid >}}</span>ORCID](https://www.orcid.org/0000-0003-1729-7843)
+- [<span aria-hidden="true">{{< ai google-scholar >}}</span>Google Scholar](https://scholar.google.com.au/citations?user=xQ-HOgMAAAAJ&hl=en&oi=ao)
+- [<i class="bi bi-github" aria-hidden="true"></i>GitHub](https://github.com/afb206)
+- [<i class="bi bi-linkedin" aria-hidden="true"></i>LinkedIn](https://www.linkedin.com/in/andrew-bowerman-1357403b0/)
+- [<i class="bi bi-bluesky" aria-hidden="true"></i>Bluesky](https://bsky.app/profile/ngrydocb.bsky.social)
+
+:::
+
+:::
+
+:::
+
+## Research {#research}
+
+Andrew works between plant biology and statistics. He analyses multi-environment field trials for the Australian grains industry, using linear mixed models in R (including ASReml-R), and works with Analytics for the Australian Grains Industry (AAGI). His background is in plant molecular biology and quantitative genetics.
+
+### Selected papers
+
+- **[Modulation of SAL retrograde signalling promotes yield and water productivity responses in dynamic field environments](https://doi.org/10.1111/nph.70579)**
+  Bowerman AF, Moore M, Yadav A, Zhang J, Mortimer MD, et al. *New Phytologist* 249(3): 1219–1233 (2026).
+  Wheat lines with specific copies of the SAL gene deleted were tested in 15 field trials across Australian environments. Deleting TaSAL2 copies improved yield by roughly 4–8% and water productivity, while deleting TaSAL1 copies reduced yield.
+
+- **[Suppression of glucan, water dikinase in the endosperm alters wheat grain properties, germination and coleoptile growth](https://doi.org/10.1111/pbi.12394)**
+  Bowerman AF, Newberry M, Dielen A-S, Whan A, Larroque O, et al. *Plant Biotechnology Journal* 14(1): 398–408 (2016).
+  Wheat lines with less glucan, water dikinase (the main enzyme that adds phosphate to starch) in the grain had longer coleoptiles, independent of any increase in grain size. Starch breakdown during germination did not change.
+
+- **[Alternative splicing, activation of cryptic exons and amino acid substitutions in carotenoid biosynthetic genes are associated with lutein accumulation in wheat endosperm](https://doi.org/10.1007/s10142-009-0121-3)**
+  Howitt CA, Cavanagh CR, Bowerman AF, Cazzonelli C, Rampling L, et al. *Functional & Integrative Genomics* 9(3): 363–376 (2009).
+  Lutein in wheat endosperm affects flour colour. Variants in two genes, ε-cyclase and phytoene synthase, were identified as possible causes of differences in lutein content, with alternative splicing of phytoene synthase reducing the amount of active enzyme.
+
+A full list of publications is on [ORCID](https://www.orcid.org/0000-0003-1729-7843) and [Google Scholar](https://scholar.google.com.au/citations?user=xQ-HOgMAAAAJ&hl=en&oi=ao).
+
+## Skills {#skills}
+
+- **Computing:** R, R Markdown, LaTeX
+- **Statistical methods:** linear mixed models (ASReml-R), factor analytic multi-environment trial analysis (FA-MET), QTL mapping (including WGAIM), GWAS, nonlinear least squares, machine learning (random forests, PLS)
+- **Design and analysis:** field trial and experimental design
+- **Training:** VSNi courses in mixed model analysis with ASReml-R (ASReml-R, ASRtriala, ASRgenomics)
+- **Spoken languages:** Portuguese (learning)
+
+## Talks and posters {#talks}
+
+- **2023:** The Plant Cell Webinar: "Crop breeding for climate resilience" ([link](https://tinyurl.com/3dytwmhz))
+- **2018:** ARC Centre of Excellence in Plant Energy Biology Annual Forum, Perth
+- **2017:** Session Chair, RSB HDR Conference
+- **2013:** 2nd Conference on Cereal Biotechnology and Breeding, Budapest, Hungary
+- **2013:** COMBIO, Perth
+- **2012:** International Plant Molecular Biology Conference, Jeju, Korea
