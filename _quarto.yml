@@ -15,6 +15,8 @@ website:
         href: "#skills"
       - text: "Talks and posters"
         href: "#talks"
+      - text: "Project reports"
+        href: "#reports"
 
 format:
   html:

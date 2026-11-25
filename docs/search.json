@@ -26,5 +26,12 @@
     "title": "Andrew F. Bowerman",
     "section": "Talks and posters",
     "text": "Talks and posters\n\n2023: The Plant Cell Webinar: “Crop breeding for climate resilience” (link)\n2018: ARC Centre of Excellence in Plant Energy Biology Annual Forum, Perth\n2017: Session Chair, RSB HDR Conference\n2013: 2nd Conference on Cereal Biotechnology and Breeding, Budapest, Hungary\n2013: COMBIO, Perth\n2012: International Plant Molecular Biology Conference, Jeju, Korea"
+  },
+  {
+    "objectID": "index.html#reports",
+    "href": "index.html#reports",
+    "title": "Andrew F. Bowerman",
+    "section": "Project reports",
+    "text": "Project reports\n\nSharp, honest or robust? Growth-curve models for sparse plant data Companion report to the Australasian Applied Statistics Conference 2026 (AASC2026) poster, with Frederike Stock, Richard Poiré and Emi Tanaka. It compares growth-function fits, a smoothing spline and two Gaussian process models for fitting growth curves to sparse plant data, using simulated plants and Arabidopsis data."
   }
 ]
